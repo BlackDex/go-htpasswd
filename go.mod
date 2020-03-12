@@ -1,4 +1,4 @@
-module github.com/tg123/go-htpasswd
+module github.com/BlackDex/go-htpasswd
 
 go 1.12
 
